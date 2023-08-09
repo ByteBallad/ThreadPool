@@ -1,0 +1,2 @@
+# ThreadPool
+通过利用KeyedObjectPool实现连接Mysql的连接池DBConnPool，并实现线程池FixedThreadPool和CachedThreadPool。
